@@ -1,0 +1,122 @@
+body{
+	max-width: 1280px;
+	max-height: 1650px;
+	margin-right: auto;	
+	margin-left:auto;
+	border-radius: 3px;
+	background-image: url("bg.png");
+}
+
+.headrow {
+	height:400px;
+    width:1280px;
+    background-color: #362e2b;
+    border-radius: 3px;
+ }
+ .headtext{
+ 	margin-left:112px;
+ 	margin-top:131px;
+ 	float:left;
+ }
+video{
+	float:right;
+	height:400px;
+	width:724px;
+	border-radius: 5px;
+}
+.neck1{
+	float:left;
+	margin-left:250px;
+    margin-top:50px;
+    box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.neck2{
+	float:left;
+	margin-left:26px;
+    margin-top:50px;
+    box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.intro{
+    background-color: #F5F8B9;
+    height:200px;
+    width:622px;
+    border-radius: 3px;
+    float:right;
+    
+    margin-top:50px;
+}
+.intro p{
+	padding:30px;
+	color: #000000;
+	font-family:Arial;
+	font-size:24px;
+	font-weight:bold;
+}
+.next{
+	margin-left:550px;
+}
+.bar{
+	width:1280px;
+    margin-top:318.5px;
+    background-color:#362e2b;
+    height:62px;
+    border-radius: 3px;
+}
+.bar p{
+	padding-left:549px;
+	padding-top:13px;
+	color: #ffffff;
+	font-family:Arial;
+	font-size:36px;
+	font-weight:bold;
+}
+.title1{
+	margin-top:68px;
+	float:left;
+	margin-left:352px;
+}
+
+
+.dtd1{
+  float:left;
+  margin-left:27px;
+  margin-top:108px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.dtd2{
+  float:right;
+  margin-right:176px;
+  margin-top:108px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.title2{
+	margin-top:50px;
+	margin-left:172.2px;
+	float:left;
+}
+.dra1{
+  float:left;
+  margin-left:27px;
+  margin-top:90px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.dra2{
+  float:right;
+  margin-right:176px;
+  margin-top:90px;
+  box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
+.footer{
+	margin-top:770px;
+    background-color: #362e2b;
+    height:100.5px;
+   width:1280px;
+    
+}
+/*.footer p{
+	padding-top: 24px;
+	padding-left:463px;
+	font-family:Arial Black;
+	font-size:12px;
+	color:#EDF2C5;
+}*/
