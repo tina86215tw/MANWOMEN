@@ -10,6 +10,16 @@ body{
 
 #point{
   cursor: pointer;
+  -webkit-filter: drop-shadow(3px 3px 5px rgba(0, 0, 0, 0.75));
+  filter: drop-shadow(3px 3px 5px rgba(0, 0, 0, 0.75));
+}
+#point:hover{
+  position: relative;
+  left: 2px;
+  top: -2px;
+  z-index:0;
+  -webkit-filter: drop-shadow(7px 7px 5px rgba(0, 0, 0, 0.75));
+  filter: drop-shadow(7px 7px 5px rgba(0, 0, 0, 0.75));
 }
 
 .whole{
