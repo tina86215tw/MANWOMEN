@@ -4,8 +4,12 @@ body{
 	margin-right: auto;
 	margin-left:auto;
 	border-radius: 3px;
-	background-image: url("./bg.png");
+	
+}
+.bontainer{
+background-image: url("./bg.png");
 	background-repeat:no-repeat;
+background-color:#000000;
 }
 
 .headrow {
