@@ -6,15 +6,7 @@ body{
 	border-radius: 3px;
 	background-image: url("./bg.png");
 }
-video{
-	float:left;
-	margin-top:108px;
-	margin-left:170px;
-	height:250px;
-	width:400px;
-	border-radius: 3px;
-	box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
-}
+
 
 .headrow {
 	height:400px;
@@ -89,7 +81,15 @@ video{
 	float:left;
 	margin-left:352px;
 }*/
-
+.a-0{
+	float:left;
+	margin-top:108px;
+	margin-left:170px;
+	height:250px;
+	width:400px;
+	border-radius: 3px;
+	box-shadow: 12px 12px 7px rgba(0, 0, 0, 0.7);
+}
 .a-1{
   float:left;
   margin-left:70.5px;
