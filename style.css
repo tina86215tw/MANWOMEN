@@ -19,7 +19,7 @@ body{
   margin-right: auto;
   width: 908.8px;
   height: 681px;
-  background-image: url(./bg_mad.png);
+  background-image: url("./bg_mad.png");
   background-color: #000000;
   background-repeat:no-repeat;
 
