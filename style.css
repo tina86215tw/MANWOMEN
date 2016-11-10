@@ -1,11 +1,30 @@
-body{
+/*body{
 	max-width: 1280px;
 	max-height: 650px;
 	margin-right: auto;
 	margin-left:auto;
 	border-radius: 3px;
 	background-image: url("./bg_mad.png");
+}*/
+body{
+  margin: 0;
+  max-width: 1280px;
+  max-height: 650px;
+  margin-right: auto;
+  margin-left: auto;
+  background: #000000;
 }
+.whole{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1280px;
+  height: 650px;
+  background-image: url(./bg_mad.png);
+  background-color: #000000;
+  background-repeat:no-repeat;
+
+}
+
 .enter{
 	float:left;
 	margin-left:17px;
