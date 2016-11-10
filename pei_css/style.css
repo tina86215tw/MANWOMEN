@@ -6,6 +6,11 @@ body{
 	background-image: url("(0)background2.png");
 
 }
+.bontainer{
+background-image: url("(0)background2.png");
+	background-color:#000000;
+	background-repeat:no-repeat;
+}
 .clear:after{
 	content:"";
 	display:block;
