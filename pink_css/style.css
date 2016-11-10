@@ -1,9 +1,11 @@
 body{
 	max-width: 1280px;
 	max-height: 1650px;
-	
+	margin-right: auto;
+	margin-left:auto;
 	border-radius: 3px;
 	background-image: url("./bg.png");
+	background-repeat:no-repeat;
 }
 
 .headrow {
