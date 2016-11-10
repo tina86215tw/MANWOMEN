@@ -76,7 +76,9 @@ body{
     padding-bottom: 16px;
     /*color:#bc6161;*/
 }
-
+a:link{
+	color:#362e2b;
+}
 a:hover
 { 
 color:yellow;
