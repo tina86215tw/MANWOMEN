@@ -8,8 +8,9 @@ body{
 }
 .bontainer{
 background-image: url("(0)background2.png");
-	background-color:#000000;
 	background-repeat:no-repeat;
+	background-color:#000000;
+	
 }
 .clear:after{
 	content:"";
