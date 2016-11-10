@@ -18,12 +18,13 @@ body{
  	margin-top:131px;
  	float:left;
  }
-video{
+.headimg{
 	float:right;
 	height:400px;
 	width:724px;
 	border-radius: 5px;
 }
+
 .neck1{
 	float:left;
 	margin-left:250px;
@@ -113,6 +114,7 @@ video{
    width:1280px;
     
 }
+
 /*.footer p{
 	padding-top: 24px;
 	padding-left:463px;
